@@ -1,0 +1,9 @@
+streamlit
+# google-cloud-aiplatform
+google-generativeai
+google-cloud-firestore
+google-auth
+pydantic
+pillow
+python-dotenv
+fpdf
